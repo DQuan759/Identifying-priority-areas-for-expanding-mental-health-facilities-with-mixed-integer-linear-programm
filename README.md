@@ -1,1 +1,1 @@
-This repository contains the code, data, and poster to accompany the paper 'Identifying priority areas for expanding mental health facilities with mixed integer linear programming' by Junyuan Quan 2022.
+This repository contains the code, data, and supplemental results to accompany the paper 'Identifying priority areas for expanding mental health facilities with mixed integer linear programming' by Junyuan Quan 2022.
